@@ -1,0 +1,9 @@
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\bin\Debug\EnvoiyéEmailbyCshap.exe.config
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\bin\Debug\EnvoiyéEmailbyCshap.exe
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\bin\Debug\EnvoiyéEmailbyCshap.pdb
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.csprojResolveAssemblyReference.cache
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.Form1.resources
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.Properties.Resources.resources
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.csproj.GenerateResource.Cache
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.exe
+c:\users\karimpc\documents\visual studio 2013\Projects\EnvoiyéEmailbyCshap\EnvoiyéEmailbyCshap\obj\Debug\EnvoiyéEmailbyCshap.pdb
